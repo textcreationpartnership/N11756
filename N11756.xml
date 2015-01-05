@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <body>
          <div type="resolution">
-            <pb facs="tcp:014851_0000_0F973A08CF19DC28"/>
-            <pb facs="tcp:014851_0001_0F973A0982337A00"/>
+            <pb facs="unknown:014851_0000_0F973A08CF19DC28"/>
+            <pb facs="unknown:014851_0001_0F973A0982337A00"/>
             <head>In the Houſe of Repreſentatives January 4, 1776.</head>
             <p>
                <hi>WHERE AS his Excellency General Waſhington, has repreſented to this Court the Neceſſity of providing Blankets for the Army and has requeſted the im<g ref="char:EOLhyphen"/>mediate Aſſiſtance of this Court, in this intereſting Affair:</hi>
@@ -1275,7 +1275,7 @@
                </table>
             </p>
             <p>
-               <pb facs="tcp:014851_0002_0F973A0A8CCAC7C0"/>
+               <pb facs="unknown:014851_0002_0F973A0A8CCAC7C0"/>
                <hi>Reſolved.</hi> That the following Gentlemen be a Committee for the Purpoſe mentioned in the foregoing Reſolve, <abbr>
                   <hi>viz.</hi>
                </abbr>
